@@ -18,4 +18,6 @@ print(type(d)) #d is a string
 
 e  = [1,2,3] 
 print(e) 
-print(type(e)) #
+print(type(e)) #e is a list 
+
+

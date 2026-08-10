@@ -71,3 +71,12 @@
 # 19) Print your favorite math expression you've learned in Python so far. 
 # (Hint: Use print() and add a comment explaining what it does.)
 print(10**2) #exponentiation, 10 to the power of 2
+
+
+def times_plus(a,b,c):
+    y = a * b + c
+    return y 
+x = times_plus(3,4,5)
+print(x)
+
+
