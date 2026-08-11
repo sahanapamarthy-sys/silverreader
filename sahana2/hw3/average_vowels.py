@@ -64,4 +64,4 @@ list_result = list(average_vowels_and_consonants(paragraph = (
     "Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all."
 )))
 # Write descriptive print statements, with f-strings, that output the average vowels and consonants per sentence of the paragraph. 
-print(f'The number of sentances is {list_result[0]}, the output of average vowels is {list_result[1]}, and the consonants per sentance is {list_result[2]}')
+print(f'The number of sentances is {list_result[0]}, the output of average vowels is {list_result[1]}, and the consonants per sentance is {list_result[2]}.')
