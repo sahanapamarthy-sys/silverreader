@@ -89,3 +89,4 @@ ages["Milana"] = 52
 
 for name, age in ages.items():
     print(name, age)
+
